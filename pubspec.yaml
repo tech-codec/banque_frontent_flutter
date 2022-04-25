@@ -1,0 +1,28 @@
+name: login_fresh
+description: LoginFresh is a user-friendly design where you can incorporate functionalities such as signUp, reset password or login with social networks
+version: 1.0.8
+authors:
+  - Cristhian Hernandez <cristhian.hernandez@softnux.io>
+
+homepage: https://github.com/Krysthyan/login_fresh
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  validate:
+    
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - assets/images_login_fresh_34_/
