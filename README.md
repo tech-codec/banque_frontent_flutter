@@ -24,14 +24,4 @@ flutter run
 
 
 
-## Languages docs
-
- - [English](https://pub.dev/packages/login_fresh#examples)
- - [Español](https://pub.dev/packages/login_fresh#ejemplos)
-
-## Examples
-
-You can view the complete demo in the [demo project](https://github.com/Krysthyan/login_fresh) 
-
-
     
